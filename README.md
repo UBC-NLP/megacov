@@ -12,13 +12,13 @@ Word clouds for hashtags in tweets from the top 10 languages in the data. We not
 # Data Organization
 The **Mega-COV** *V0.1* are organized as follows:
 - Contains 566M tweet IDs
-- you can donwload the *MegaCOV_v0.1.tar.gz* from [Google Drive](https://drive.google.com/drive/folders/1t3xZVi7iRBLJWm3xkXTZj-JDGD_opr55?usp=sharing)
+- You can donwload the *MegaCOV_v0.1.tar.gz* from [Google Drive](https://drive.google.com/drive/folders/1t3xZVi7iRBLJWm3xkXTZj-JDGD_opr55?usp=sharing)
 
 # Ethical Considerations
 We collect **Mega-COV** from the public domain (Twitter). In compliance with Twitter policy, we do not publish hydrated tweet content. Rather, we only publish publicly available tweet IDs. All Twitter policies, including respect and protection of user privacy, apply. We encourage all researchers who decide to use **Mega-COV** to review Twitter policy at [Twitter policy](https://developer.twitter.com/en/developer-terms/policy) before they start working with the data. 
 
-# Contact US & Inquiries
-- If you have any further questions about this dataset please contact Dr. Muhammad Abdul-Mageed at *emuhammad.mageeed[at]ubc[dot]ca*.
+# Inquiries?
+- If you have any questions about this dataset please contact us @ *muhammad.mageeed[at]ubc[dot]ca*.
 
 # Citation
 ```
