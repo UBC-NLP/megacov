@@ -1,6 +1,6 @@
 # Mega-COV
 A billion-scale dataset from Twitter for studying COVID-19. The dataset is diverse (covers 234 countries), longitudinal (goes as back as 2007), multilingual (comes in 65 languages), and has a significant number of location-tagged tweets (~32M tweets). We release tweet IDs from the dataset, hoping it will be useful for studying various phenomena related to the ongoing pandemic and accelerating viable solutions to associated problems. 
-
+![Image description](megacov.jpg)
 # Ethical Considerations
 We collect **Mega-COV** from the public domain (Twitter). In compliance with Twitter policy, we do not publish hydrated tweet content. Rather, we only publish publicly available tweet IDs. All Twitter policies, including respect and protection of user privacy, apply. We encourage all researchers who decide to use \texttt{Mega-COV} to review Twitter policy at [Twitter policy](https://developer.twitter.com/en/developer-terms/policy) before they start working with the data. 
 
