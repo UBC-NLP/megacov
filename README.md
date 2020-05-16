@@ -9,10 +9,9 @@ A billion-scale dataset from Twitter for studying COVID-19. The dataset is diver
 Word clouds for hashtags in tweets from the top 10 languages in the data. We note that tweets in non-English can still carry English hashtags or employ Latin script.
 ![World cloudf Mega-COV](megacov2.jpg)
 
-# Data Organization
-The **Mega-COV** *V0.1* are organized as follows:
-- Contains 566M tweet IDs
-- You can donwload the *MegaCOV_v0.1.tar.gz* from [Google Drive](https://drive.google.com/drive/folders/1t3xZVi7iRBLJWm3xkXTZj-JDGD_opr55?usp=sharing)
+# Download the Data
+- **Mega-COV** *V0.1* comprises ~ 566M tweet IDs
+- You can donwload *MegaCOV_v0.1.tar.gz* from [Google Drive](https://drive.google.com/drive/folders/1t3xZVi7iRBLJWm3xkXTZj-JDGD_opr55?usp=sharing)
 
 # Ethical Considerations
 We collect **Mega-COV** from the public domain (Twitter). In compliance with Twitter policy, we do not publish hydrated tweet content. Rather, we only publish publicly available tweet IDs. All Twitter policies, including respect and protection of user privacy, apply. We encourage all researchers who decide to use **Mega-COV** to review Twitter policy at [Twitter policy](https://developer.twitter.com/en/developer-terms/policy) before they start working with the data. 
