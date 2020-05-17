@@ -29,7 +29,6 @@ Word clouds for hashtags in tweets from the top 10 languages in the data. We not
 # Ethical Considerations
 We collect **Mega-COV** from the public domain (Twitter). In compliance with Twitter policy, we do not publish hydrated tweet content. Rather, we only publish publicly available tweet IDs. All Twitter policies, including respect and protection of user privacy, apply. We encourage all researchers who decide to use **Mega-COV** to review Twitter policy at [Twitter policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy) before they start working with the data. For example, Twitter provides the following policy around use of [sensitive information](https://developer.twitter.com/en/developer-terms/more-on-restricted-use-cases): 
 
---- 
 
 === Begin Quote ===
 ## Sensitive information
@@ -45,6 +44,7 @@ Sex life or sexual orientation
 Trade union membership
 Alleged or actual commission of a crime
 Aggregate analysis of Twitter content that does not store any personal data (for example, user IDs, usernames, and other identifiers) is permitted, provided that the analysis also complies with applicable laws and all parts of the Developer Agreement and Policy.
+
 === End Quote ===
 
 ---
