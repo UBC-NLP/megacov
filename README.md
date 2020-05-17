@@ -35,15 +35,15 @@ We collect **Mega-COV** from the public domain (Twitter). In compliance with Twi
 
 You should be careful about using Twitter data to derive or infer potentially sensitive characteristics about Twitter users. Never derive or infer, or store derived or inferred, information about a Twitter user’s:
 
-Health (including pregnancy)
-Negative financial status or condition
-Political affiliation or beliefs
-Racial or ethnic origin
-Religious or philosophical affiliation or beliefs
-Sex life or sexual orientation
-Trade union membership
-Alleged or actual commission of a crime
-Aggregate analysis of Twitter content that does not store any personal data (for example, user IDs, usernames, and other identifiers) is permitted, provided that the analysis also complies with applicable laws and all parts of the Developer Agreement and Policy.
+- Health (including pregnancy)
+- Negative financial status or condition
+- Political affiliation or beliefs
+- Racial or ethnic origin
+- Religious or philosophical affiliation or beliefs
+- Sex life or sexual orientation
+- Trade union membership
+- Alleged or actual commission of a crime
+- Aggregate analysis of Twitter content that does not store any personal data (for example, user IDs, usernames, and other identifiers) is permitted, provided that the analysis also complies with applicable laws and all parts of the Developer Agreement and Policy.
 
 === End Quote ===
 
