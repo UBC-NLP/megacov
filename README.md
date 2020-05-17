@@ -1,5 +1,5 @@
 # Mega-COV
-A billion-scale dataset from Twitter for studying COVID-19. The dataset is diverse (covers 234 countries), longitudinal (goes as back as 2007), multilingual (comes in 65 languages), and has a significant number of location-tagged tweets (~32M tweets). We release tweet IDs from the dataset, hoping it will be useful for studying various phenomena related to the ongoing pandemic and accelerating viable solutions to associated problems.
+This repository includes information about *Mega-COV*, the dataset introduced in a recent paper we published on [ArXiv](https://arxiv.org/pdf/2005.06012.pdf). Mega-COV is a billion-scale dataset from Twitter for studying COVID-19. The dataset is diverse (covers 234 countries), longitudinal (goes as back as 2007), multilingual (comes in 65 languages), and has a significant number of location-tagged tweets (~32M tweets). We release tweet IDs from the dataset, hoping it will be useful for studying various phenomena related to the ongoing pandemic and accelerating viable solutions to associated problems.
 
 # World map coverage of Mega-COV *V0.1*
 ![World map coverage of Mega-COV](megacov.jpg)
