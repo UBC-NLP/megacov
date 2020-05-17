@@ -11,7 +11,8 @@ Word clouds for hashtags in tweets from the top 10 languages in the data. We not
 
 # Download the Data
 - **Mega-COV** *V0.1* comprises ~ 566M tweet IDs
-- You can donwload *MegaCOV_v0.1.tar.gz* from [Google Drive](https://drive.google.com/drive/folders/1t3xZVi7iRBLJWm3xkXTZj-JDGD_opr55?usp=sharing)
+- You can donwload *MegaCOV_v0.1.tar.gz* from [Google Drive](https://drive.google.com/drive/folders/1t3xZVi7iRBLJWm3xkXTZj-JDGD_opr55?usp=sharing). Please be aware that the compressed files make up a total of ~ 4GB.
+
 
 # Ethical Considerations
 We collect **Mega-COV** from the public domain (Twitter). In compliance with Twitter policy, we do not publish hydrated tweet content. Rather, we only publish publicly available tweet IDs. All Twitter policies, including respect and protection of user privacy, apply. We encourage all researchers who decide to use **Mega-COV** to review Twitter policy at [Twitter policy](https://developer.twitter.com/en/developer-terms/policy) before they start working with the data. 
