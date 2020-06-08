@@ -31,7 +31,6 @@ Word clouds for hashtags in tweets from the top 10 languages in the data. We not
 We collect **Mega-COV** from the public domain (Twitter). In compliance with Twitter policy, we do not publish hydrated tweet content. Rather, we only publish publicly available tweet IDs. All Twitter policies, including respect and protection of user privacy, apply. We encourage all researchers who decide to use **Mega-COV** to review Twitter policy at [Twitter policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy) before they start working with the data. For example, Twitter provides the following policy around use of [sensitive information](https://developer.twitter.com/en/developer-terms/more-on-restricted-use-cases): 
 
 
-=== Begin Quote ===
 ## Sensitive information
 
 You should be careful about using Twitter data to derive or infer potentially sensitive characteristics about Twitter users. Never derive or infer, or store derived or inferred, information about a Twitter user’s:
@@ -46,12 +45,10 @@ You should be careful about using Twitter data to derive or infer potentially se
 - Alleged or actual commission of a crime
 - Aggregate analysis of Twitter content that does not store any personal data (for example, user IDs, usernames, and other identifiers) is permitted, provided that the analysis also complies with applicable laws and all parts of the Developer Agreement and Policy.
 
-=== End Quote ===
-
 ---
 
 # Inquiries?
-- If you have any questions about this dataset please contact us @ *muhammad.mageeed[at]ubc[dot]ca*.
+- If you have any questions about this dataset please contact us @ *muhammad.mageed[at]ubc[dot]ca*.
 
 ---
 # Citation
