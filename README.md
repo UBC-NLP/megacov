@@ -22,7 +22,7 @@ Word clouds for hashtags in tweets from the top 10 languages in the data. We not
 
 ## Download
 - **Mega-COV** *V0.1* comprises ~ 566M tweet IDs
-- You can donwload *MegaCOV_v0.1.tar.gz* from [this link](https://drive.google.com/drive/folders/1t3xZVi7iRBLJWm3xkXTZj-JDGD_opr55?usp=sharing). Please be aware that the compressed files make up a total of ~ 4GB.
+- You can donwload *MegaCOV_v0.1.tar.gz* from [this link](https://drive.google.com/drive/folders/1t3xZVi7iRBLJWm3xkXTZj-JDGD_opr25255?usp=sharing). Please be aware that the compressed files make up a total of ~ 4GB.
 - **Note:** We will soon organize the download data (IDs) temporally, with e.g., different months and years in different files.
 
 ---
