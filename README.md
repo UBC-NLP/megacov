@@ -4,14 +4,14 @@ This repository includes information about *Mega-COV*, the dataset introduced in
 ---
 
 # World map coverage of Mega-COV
-![World map coverage of Mega-COV](megacov.jpg)
+![World map coverage of Mega-COV](MegaCOV_cities.jpg) ![World map coverage of Mega-COV](MegaCOV_geo.jpg)
 **(a) Left: Cities.** Each dot is a city. Contiguous cities of the same color belong to the same country. **(b) Right: Point co-ordinates**. Each dot is a point co-ordinate (longitude and Latitude) from which at least one tweet was posted.
 
 ---
 
 # Word clouds for hashtags of Mega-COV
 Word clouds for hashtags in tweets from the top 10 languages in the data. We note that tweets in non-English can still carry English hashtags or employ Latin script.
-![World cloudf Mega-COV](megacov2.jpg)
+![World cloudf Mega-COV](MegaCOV_langs.jpg)
 
 ---
 
