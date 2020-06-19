@@ -45,7 +45,7 @@ You should be careful about using Twitter data to derive or infer potentially se
 ---
 
 # Inquiries?
-- If you have any questions about this dataset please contact us @ *muhammad.mageed[at]ubc[dot]ca*.
+`If you have any questions about this dataset please contact us @ *muhammad.mageed[at]ubc[dot]ca*.`
 
 ---
 # Citation
