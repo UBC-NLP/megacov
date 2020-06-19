@@ -1,5 +1,4 @@
 # Data Organization
-The Tweet-IDs are organized as follows:
 The **Mega-COV** *V0.2* are organized as follows:
 - the tweet IDs are categorised based on years to indicate the year/month of the collection and saved on 7 compressed files.
 - We provide the folowing information for each tweet:
@@ -13,6 +12,7 @@ The **Mega-COV** *V0.2* are organized as follows:
  - date
 - The tweets information saved on JSON format 
 
+# Download
 You can donload the tweet IDs as follows:
 - MagaCOV_Jan_2020.tar.gz    [download link](https://drive.google.com/file/d/1Cu245viZuOem9izj81W-4DvJ72LV7o9M/view?usp=sharing)      
 - MagaCOV_Feb_2020.tar.gz    [download link](https://drive.google.com/file/d/1FaTGLDM7BUDwbt5eFHD3e4F5qkZx32dg/view?usp=sharing)      
