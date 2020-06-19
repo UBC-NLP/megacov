@@ -22,8 +22,7 @@ Word clouds for hashtags in tweets from the top 10 languages in the data. We not
 ## Data Usage Agreement
 - **Mega-COV** is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)). By using the dataset, you agree to abide by the stipulations in the license, remain in compliance with Twitter’s [Terms of Service](https://developer.twitter.com/en/developer-terms/agreement-and-policy), and cite the related paper ([Mega-COV: A Billion-Scale Dataset of 65 Languages For COVID-19](https://arxiv.org/abs/2005.06012)). (Please see citation section in the end of this README).
 
-## Download
-data orgnization and download files [link](https://github.com/UBC-NLP/megacov/tree/master/tweet_ids)
+- `Data orgnization and download files` [link](https://github.com/UBC-NLP/megacov/tree/master/tweet_ids)
 
 # Ethical Considerations
 We collect **Mega-COV** from the public domain (Twitter). In compliance with Twitter policy, we do not publish hydrated tweet content. Rather, we only publish publicly available tweet IDs. All Twitter policies, including respect and protection of user privacy, apply. We encourage all researchers who decide to use **Mega-COV** to review Twitter policy at [Twitter policy](https://developer.twitter.com/en/developer-terms/agreement-and-policy) before they start working with the data. For example, Twitter provides the following policy around use of [sensitive information](https://developer.twitter.com/en/developer-terms/more-on-restricted-use-cases): 
