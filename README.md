@@ -4,7 +4,7 @@ This repository includes information about *Mega-COV*, the dataset introduced in
 ---
 
 # World map coverage of Mega-COV
-![World map coverage of Mega-COV](megaCOV_cities.png) ![World map coverage of Mega-COV](megaCOV_geo.png)
+![World map coverage of Mega-COV](megaCOV_cities._geo.png) 
 **(a) Left: Cities.** Each dot is a city. Contiguous cities of the same color belong to the same country. **(b) Right: Point co-ordinates**. Each dot is a point co-ordinate (longitude and Latitude) from which at least one tweet was posted.
 
 ---
