@@ -14,6 +14,8 @@ Word clouds for hashtags in tweets from the top 10 languages in the data. We not
 ![World cloudf Mega-COV](megaCOV_top_langs.png)
 
 ---
+# Inter-state user mobility in the U.S. for Jan.-May, 2020
+![MegaCOV_US_mobility](MegaCOV_US_mobility.png)
 
 # Download the Data
 
