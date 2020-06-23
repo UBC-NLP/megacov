@@ -1,7 +1,7 @@
 # Data Organization
-The **Mega-COV** *V0.2* are organized as follows:
-- the tweet IDs are categorised based on years to indicate the year/month of the collection and saved on 7 compressed files.
-- We provide the folowing information for each tweet:
+The **Mega-COV** *V0.2* files are organized as follows:
+- Tweet IDs are categorised based on years, with 2020 data also broken down into months. The collection is a total of 7 compressed files.
+- For each tweeet, the files below have the folowing information:
      - `tweet_id`
      - `Twitter_lang`: the language assigined by Twitter
      - `LangID_tool` : for the undefined tweets by Twitter "und", we provide the language based on langid tool
@@ -10,7 +10,7 @@ The **Mega-COV** *V0.2* are organized as follows:
      - `date_month`
      - `date_weekOfYear`
      - `date`
-- The tweets information saved on JSON format 
+- The data files are saved in JSON format. 
 
 # Download
 You can donload the tweet IDs as follows:
