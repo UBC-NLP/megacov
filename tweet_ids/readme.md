@@ -11,9 +11,10 @@ The **Mega-COV** *V0.2* files are organized as follows:
      - `date_weekOfYear`
      - `date`
 - The data files are saved in JSON format. 
+---
 
 # Download
-You can donload the tweet IDs as follows:
+
 - [MagaCOV_Jan_2020.tar.gz](https://drive.google.com/file/d/1Cu245viZuOem9izj81W-4DvJ72LV7o9M/view?usp=sharing)      
 - [MagaCOV_Feb_2020.tar.gz](https://drive.google.com/file/d/1FaTGLDM7BUDwbt5eFHD3e4F5qkZx32dg/view?usp=sharing)      
 - [MagaCOV_Mar_2020.tar.gz](https://drive.google.com/file/d/1bbah6100egayyWnyLfWztfL1G2gxQ7rz/view?usp=sharing)      
