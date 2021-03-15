@@ -55,7 +55,7 @@ You should be careful about using Twitter data to derive or infer potentially se
 @inproceedings{mageed2020MegaCOV,
   title={Mega-COV: A Billion-Scale Dataset of 100+ Languages For COVID-19},
   author={Muhammad Abdul-Mageed and AbdelRahim Elmadany and El Moatez Billah Nagoudi and Dinesh Pabbi and Kunal Verma and Rannie Lin},
-  journal={arXiv preprint arXiv:2005.06012},
-  year={2020}
+  journal={EACL},
+  year={2021}
 }
 ```
